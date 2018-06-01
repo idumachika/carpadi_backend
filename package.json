@@ -1,0 +1,42 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Team 2"
+  },
+  "contributors": {
+    "name": "",
+    "email": ""
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "debug": "^2.1.0",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "google-auth-library": "^1.4.0",
+    "googleapis": "^30.0.0",
+    "jsonwebtoken": "^8.2.1",
+    "lodash": "^4.17.5",
+    "log": "^1.4.0",
+    "log4js": "^2.5.3",
+    "mongoose": "^4.12.4",
+    "nodemailer": "^4.6.4",
+    "nodemon": "^1.14.11",
+    "request": "^2.36.0",
+    "winston": "^2.4.2"
+  }
+}
